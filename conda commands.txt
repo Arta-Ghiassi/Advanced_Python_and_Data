@@ -1,0 +1,21 @@
+conda:
+
+conda create --name *name*                                 sakht yek environment jadid
+
+conda activate *name*                                      vared shodan be environment
+
+conda deactivate                                           kharej shodan as environment
+
+conda env remove --name *name*                             remove kardan yek environment
+
+conda env list                                             list tamam environment haye mojoud rooye system 
+
+conda install ipykernel                                    pol ertebati bein kernel ha va IDE ha
+
+python -m ipykernel install --user --name *name*           shenakhtan esme environment tavasot IDE ha
+
+
+
+
+
+
